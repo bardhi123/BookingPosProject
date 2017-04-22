@@ -1,1 +1,2 @@
 C:\Users\pc\Desktop\School\POS\3E\BookingProject\BookingProject\bin\Debug\BookingProject.exe.config
+C:\Users\pc\Desktop\School\POS\3E\BookingProject\BookingPosProject\BookingProject\bin\Debug\BookingProject.exe.config
